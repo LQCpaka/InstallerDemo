@@ -1,0 +1,16 @@
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\MoonlighterVH.exe.config
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\MoonlighterVH.exe
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\MoonlighterVH.pdb
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\VSC\TRTInstaller\TRTInstaller\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.csproj.AssemblyReference.cache
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.csproj.SuggestedBindingRedirects.cache
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.Form1.resources
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.Properties.Resources.resources
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.csproj.GenerateResource.cache
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.csproj.CoreCompileInputs.cache
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\TRTInstaller.csproj.CopyComplete
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\MoonlighterVH.exe
+C:\VSC\TRTInstaller\TRTInstaller\obj\Debug\MoonlighterVH.pdb
